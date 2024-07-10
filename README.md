@@ -1,6 +1,6 @@
 # BinaryPaper
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,pycharm&theme=light)](https://skillicons.dev)
 
 ## Goal
 
