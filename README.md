@@ -2,7 +2,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,github,idea&theme=light)](https://skillicons.dev)
 
+## Goal
+
 Objects with methods that change a Binary Tree to a List
+
+## How to use
 
 To create a tree, use ``binary_search_tree.py``.
 
